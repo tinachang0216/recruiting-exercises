@@ -1,0 +1,17 @@
+[
+   {
+      "apple":7
+   },
+   {
+      "name":"owd",
+      "inventory":{
+         "apple":5
+      }
+   },
+   {
+      "name":"dm",
+      "inventory":{
+         "apple":5
+      }
+   }
+]

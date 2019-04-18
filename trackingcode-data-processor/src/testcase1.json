@@ -1,0 +1,18 @@
+[
+   {
+      "apple":10,
+      "banana":2
+   },
+   {
+      "name":"owd",
+      "inventory":{
+         "apple":5
+      }
+   },
+   {
+      "name":"dm",
+      "inventory":{
+         "banana":5
+      }
+   }
+]
